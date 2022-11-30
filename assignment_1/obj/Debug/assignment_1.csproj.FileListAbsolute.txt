@@ -1,0 +1,11 @@
+D:\imageProcessing\assignment_1\assignment_1\bin\Debug\assignment_1.exe.config
+D:\imageProcessing\assignment_1\assignment_1\bin\Debug\assignment_1.exe
+D:\imageProcessing\assignment_1\assignment_1\bin\Debug\assignment_1.pdb
+D:\imageProcessing\assignment_1\assignment_1\obj\Debug\assignment_1.csproj.AssemblyReference.cache
+D:\imageProcessing\assignment_1\assignment_1\obj\Debug\assignment_1.csproj.SuggestedBindingRedirects.cache
+D:\imageProcessing\assignment_1\assignment_1\obj\Debug\assignment_1.Form1.resources
+D:\imageProcessing\assignment_1\assignment_1\obj\Debug\assignment_1.Properties.Resources.resources
+D:\imageProcessing\assignment_1\assignment_1\obj\Debug\assignment_1.csproj.GenerateResource.cache
+D:\imageProcessing\assignment_1\assignment_1\obj\Debug\assignment_1.csproj.CoreCompileInputs.cache
+D:\imageProcessing\assignment_1\assignment_1\obj\Debug\assignment_1.exe
+D:\imageProcessing\assignment_1\assignment_1\obj\Debug\assignment_1.pdb
